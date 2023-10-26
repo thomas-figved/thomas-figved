@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-I worked as a web developer for the past 15 years in France and Japan, looking to open a new chapter in London.
+I worked as a web developer for the past 15 years in France and Japan, looking forward to opening a new chapter of my career in London.
+
 Have a look at my [portfolio](https://thomasf.dev) if you want to see some of my work ([contact me](https://www.linkedin.com/in/thomas-figved-0056b62b/) to obtain the password).
 
-I am currently developping the [🍽️ QRestau](https://github.com/thomas-figved/qrestau) app on my spare time. I'd be happy to hear what you think about it!
+I am currently developping the [🍽️ QRestau](https://github.com/thomas-figved/qrestau) app on my spare time. I'd be happy to hear what you think about it ❤️!
 
 If you need a developer or simply want to have a chat, feel free to [contact me](https://www.linkedin.com/in/thomas-figved-0056b62b/)
 
